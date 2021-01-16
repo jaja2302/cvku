@@ -1,0 +1,31 @@
+
+.costumTabs .costumTabs_item {
+    padding: 0px !important;
+    min-width: 0px !important;
+    margin-right: 20px !important;
+    text-transform: inherit !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    outline-width: 0px !important;
+}
+
+.costumTabs .active{
+    color: var(--main-color) !important;
+}
+
+.costumCard {
+    height: 100%;
+    max-width: 150px;
+    box-shadow: 0px 0px 48px 0px rgba(4, 6, 4, 0.08) !important;
+    border-radius: 5px;
+    overflow: hidden;
+    outline-width: 0px !important;
+}
+
+.costumCard .costumCard_image {
+    height: 140px;
+}
+
+.costumCard .costumCard_title {
+    font-weight: 500;
+}
